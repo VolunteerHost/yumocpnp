@@ -1,0 +1,16 @@
+{
+  "name": "betonolom-ua",
+  "version": "1.0.0",
+  "description": "Сайт демонтажных работ с Telegram-ботом для получения заявок.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Betonolom UA",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "mongodb": "^7.2.0",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
